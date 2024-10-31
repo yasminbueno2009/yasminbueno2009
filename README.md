@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**yasminbueno2009/yasminbueno2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui estão algumas ideias para você começar:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou estudando no Colegio Padre Claudio Morelli
+- 🌱 Atualmente estou aprendendo a programar em linguagem em java script e scratch
+- 👯 Procuro contribuir em progamações e compartilhar meus codigos
+- 🤔 Estou procurando ajuda com 
+- 💬 Pergunte-me sobre 
+- 📫 Como entrar em contato comigo: y.albuquerque@escola.pr.gov.br
+- 😄 Pronomes: ela/dela
+- ⚡ Curiosidade: quero me formar em nutrição 
+- 😛 Utilizo o [Alura](www.alura.com.br) para estudar 
+- ![](https://media1.tenor.com/m/FJc93sjuppEAAAAd/yourarchivist-orange-cat.gif)
